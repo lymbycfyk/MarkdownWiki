@@ -1,3 +1,3 @@
 # MarkdownWiki
 
-This project moved to another [place](https://github.com/DownmarkedWiki/MarkdownWiki)
+This project [moved](https://github.com/Wastl-B/MarkdownWiki)!
